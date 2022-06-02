@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 const formIn = document.querySelector('form'); //le o formulario da DOM
 const lista = document.querySelector(".todo-list") //le a lista da DOM (ul)
