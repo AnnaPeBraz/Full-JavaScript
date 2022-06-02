@@ -1,4 +1,3 @@
-
 const logadoJson = window.sessionStorage.getItem('logado')
 const logado = JSON.parse(logadoJson)
 if(logado){
@@ -179,4 +178,3 @@ if(logado){
 //             lista.splice(i,1);
 //         }
 //     }
-// }

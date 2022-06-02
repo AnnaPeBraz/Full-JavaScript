@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 const formIn = document.querySelector('form'); //le o formulario da DOM
 const lista = document.querySelector(".todo-list") //le a lista da DOM (ul)
@@ -195,5 +196,3 @@ function criar_li(addText){
     li1.innerHTML = addText;
     li1.classList = "todo-item";
 }
-
-

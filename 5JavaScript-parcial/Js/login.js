@@ -1,3 +1,4 @@
+
 const login = 'sober';
 const senha = 'Anna';
 let paragrafoErro;
@@ -57,5 +58,3 @@ function validaLoginSenha(inputLogin, inputSenha){
   }
 
   return true;
-
-}

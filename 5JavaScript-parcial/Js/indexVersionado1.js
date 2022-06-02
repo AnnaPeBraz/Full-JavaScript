@@ -175,4 +175,3 @@ if(logado){
 //             lista.splice(i,1);
 //         }
 //     }
-// }
