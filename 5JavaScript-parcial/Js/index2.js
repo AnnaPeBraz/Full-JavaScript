@@ -102,7 +102,7 @@ if(logado){
             "status": "pendente"
         }
         listaToDo.push(item)
-        // localStorage.setItem("minhaToDo.listaSober", JSON.stringify(listaToDo));
+        // localStorage.setItem("minhaToDo.listaSober", JSON.stringify(listaToDo)); 
 
     }
     
